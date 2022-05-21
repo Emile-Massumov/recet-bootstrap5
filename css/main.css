@@ -52,3 +52,7 @@
     height:1200px;
     background-size: cover;
 }
+
+.resize-img {
+    height: 400px;
+}
